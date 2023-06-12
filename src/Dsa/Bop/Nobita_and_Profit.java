@@ -6,8 +6,6 @@ public class Nobita_and_Profit {
     }
     static void Profit(int C, int S){
 
-        /* Write your code here */
-
         int profit = (S-C);
         System.out.println(profit);
     }
